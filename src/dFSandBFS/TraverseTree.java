@@ -1,4 +1,4 @@
-package dFSandBFS;
+package DFSandBFS;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
